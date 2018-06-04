@@ -1,0 +1,7 @@
+C:\Users\sasha\source\repos\Lera\Lera\bin\Debug\Lera.exe.config
+C:\Users\sasha\source\repos\Lera\Lera\bin\Debug\Lera.exe
+C:\Users\sasha\source\repos\Lera\Lera\bin\Debug\Lera.pdb
+C:\Users\sasha\source\repos\Lera\Lera\obj\Debug\Lera.csprojAssemblyReference.cache
+C:\Users\sasha\source\repos\Lera\Lera\obj\Debug\Lera.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\Lera\Lera\obj\Debug\Lera.exe
+C:\Users\sasha\source\repos\Lera\Lera\obj\Debug\Lera.pdb
